@@ -1,8 +1,8 @@
 # ServerPosts
 
 Realizzare una interfaccia web (HTML & Javascript) che restituisca:
-- 2 post,
-- 5 commenti,
+- 2 post, primi due
+- 5 commenti, 5 commenti non adiacenti
 - 10 utenti,
 
 da un servizio server gratuito chiamato [JsonPlaceholder](https://jsonplaceholder.typicode.com/).
