@@ -1,5 +1,7 @@
 # ServerPosts
 
+Prima di proseguire con la traccia ripassa le [Promise](https://github.com/moris88/Promise).
+
 Realizzare una interfaccia web (HTML & Javascript) che restituisca:
 - 2 post, primi due
 - 5 commenti, non adiacenti
